@@ -41,6 +41,10 @@ body {
     margin-top: 12px;
     border-radius: 6px;
 }
+.pictorial-news-section {
+    text-align: center;
+}
+
 #news{
 	height: 450px;
 }
